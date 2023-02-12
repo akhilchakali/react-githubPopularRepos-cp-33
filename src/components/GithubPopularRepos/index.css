@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.ul2 {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.ul1 {
+  list-style-type: none;
+}
+.whole {
+  text-align: center;
+}

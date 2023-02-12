@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.img {
+  height: 50px;
+  width: 50px;
+}
+.name {
+  color: red;
+}
+.list {
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px;
+  height: 200px;
+  width: 180px;
+  margin: 10px;
+  font-size: 13px;
+  background-color: #f8f8ff;
+}
+.img1 {
+  height: 7px;
+  width: 7px;
+}

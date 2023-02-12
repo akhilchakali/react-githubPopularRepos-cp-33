@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.no {
+  color: black;
+  font-size: 20px;
+  border-width: 0px;
+  background-color: white;
+  margin-left: 10px;
+}
+.yes {
+  font-size: 20px;
+  color: #0284c7;
+  border-width: 1px;
+  border-color: #0284c7;
+  border-style: solid;
+  border-radius: 10px;
+  background-color: white;
+  margin-left: 10px;
+}
